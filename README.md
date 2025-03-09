@@ -18,7 +18,9 @@ Easily set up WordPress on an Ubuntu VM running on macOS M2 using Vagrant.
 
 Follow the detailed PDF guide for setting up the Ubuntu VM:📄 Apache-HTTPD-Deployment
 
-⚡ Using Vagrant for Quick Setup
+⚡ Using Vagrantfile for Quick Setup if you want to manually
+⚡ Using VagrantfileIAC for Automated provisioning using Inline Shell scripting
+
 
 To simplify the process, use Vagrantfile to set up your Ubuntu VM which has been attached.
 
