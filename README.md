@@ -2,7 +2,7 @@
 
 Easily set up WordPress on an Ubuntu VM running on macOS M2 using Vagrant.
 
-![image alt]()
+![image alt](https://github.com/rajatrajat0210/Wordpress-Ubuntu-Deployment/blob/main/WordpressVM.png?raw=true)
 
 📌 Prerequisites
 
